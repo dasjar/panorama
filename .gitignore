@@ -1,26 +1,26 @@
-# Python cache
-__pycache__/
-*.pyc
-*.pyo
+# # Python cache
+# __pycache__/
+# *.pyc
+# *.pyo
 
-# Streamlit cache
-.streamlit/
+# # Streamlit cache
+# .streamlit/
 
-# Output images
-output/
+# # Output images
+# output/
 
-# Large data (your panorama inputs)
-data/panorama/
-data/phone_panorama/
-data/sift_pair/
+# # Large data (your panorama inputs)
+# data/panorama/
+# data/phone_panorama/
+# data/sift_pair/
 
-# System / IDE files
-.DS_Store
-.vscode/
-.idea/
-__pycache__/
-*.pyc
-*.pyo
-*.DS_Store
-output/
+# # System / IDE files
+# .DS_Store
+# .vscode/
+# .idea/
+# __pycache__/
+# *.pyc
+# *.pyo
+# *.DS_Store
+# output/
 
